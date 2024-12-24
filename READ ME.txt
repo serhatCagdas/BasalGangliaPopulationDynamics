@@ -1,0 +1,23 @@
+For figure 2, run corticalFigs.m
+For figure 4, run one_trial_activity.m
+For figure 5, run plotSTNeffect.m
+For figure 6, run dop_energy_plot.m
+
+For figure 7, run populationFigs.m
+
+			to recreate the data run jPCAanalysis.m
+			
+For figure 9, run reachtimefig.m
+
+For figure 10, plot_prepTime 
+
+			to recreate data: 	1. run create_10_instance.m
+								2. run prepTimeTest.m
+								
+
+For figure 11, plot_prepTime 
+
+			to recreate data: 	1. run plot_perturb.m
+								2. run perturbationTest.m
+
+ 
